@@ -11,7 +11,7 @@ public class Person {
         this.name = name;
         this.age = age;
         this.birth = birth;
-//    this.birth = new Date(birth.getTime());
+//        this.birth = new Date(birth.getTime());
     }
 
     public String getName() {
