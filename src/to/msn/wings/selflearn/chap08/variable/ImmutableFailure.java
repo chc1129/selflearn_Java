@@ -9,7 +9,7 @@ public class ImmutableFailure {
         var p = new Person("山田太郎", 30, birth);
         System.out.println(p.getBirth()); // 結果:Fri Jan 31 05:35:57 JST 2020
         // インスタンス化に際して渡したオブジェクトを更新(日付を変更)
-        birth.setDate(15);
+//        birth.setDate(15);
         System.out.println(p.getBirth()); // 結果:Wed Jan 15 05:35:57 JST 2020
 
 //        var p = new Person("山田太郎", 30, new Date());
