@@ -1,7 +1,5 @@
 package to.msn.wings.selflearn.chap04;
 
-import java.awt.*;
-
 public class SwitchBasic {
 
     public static void main(String[] args) {

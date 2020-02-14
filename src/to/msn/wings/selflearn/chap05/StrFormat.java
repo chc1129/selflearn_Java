@@ -1,6 +1,5 @@
 package to.msn.wings.selflearn.chap05;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.time.LocalDateTime;
 import java.util.Locale;
 
