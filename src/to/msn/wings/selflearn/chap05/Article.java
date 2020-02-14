@@ -13,6 +13,10 @@ public class Article implements Serializable {
         this.url = url;
         this.expired = expired;
     }
+
+    public Article(String s, String s1) {
+    }
+
     @Override
     public String toString() {
         return String.format("%s（%s）", this.title, this.url);
